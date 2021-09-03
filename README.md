@@ -1,10 +1,10 @@
-# 👋🏻  Hola
+# 👋🏻  Hello, my name is Ismael
 
-![Ciudad de Matrix con código](https://cdn.pixabay.com/photo/2019/11/23/04/52/matrix-4646234__340.jpg)
+![Matrix city with code](https://cdn.pixabay.com/photo/2019/11/23/04/52/matrix-4646234__340.jpg)
 
-Soy desarrollador profesional de software desde hace más de diez años
+I'm a professional software developer for more than ten years.
 
-## Conocimientos
+## Skills
 
 - HTML5
 - CSS3
